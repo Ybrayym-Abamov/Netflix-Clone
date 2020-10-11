@@ -1,7 +1,7 @@
 # Netflix Clone
 
 ## Application Architecture ↓
-### This is my app architecture sketch [Architecture-Sketch](https://drive.google.com/file/d/1q0K1vqW4STv5NfA-bFd-UvdA5uhXaCvn/view?usp=sharing)
+### This is my app architecture sketch ⟶ [Architecture-Sketch](https://drive.google.com/file/d/1q0K1vqW4STv5NfA-bFd-UvdA5uhXaCvn/view?usp=sharing)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
