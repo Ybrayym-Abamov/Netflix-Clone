@@ -1,6 +1,6 @@
 # Netflix Clone
 
-## Application Architecture
+## Application Architecture ↓
 ### [Architecture-Sketch](https://drive.google.com/file/d/1q0K1vqW4STv5NfA-bFd-UvdA5uhXaCvn/view?usp=sharing)
 
 
