@@ -15,6 +15,10 @@ Accordion.Title = function AccordionTitle({ children, ...restProps }) {
     return <Title {...restProps}>{children}</Title>;
 };
 
+Accordion.Frame = function AccordionFrame({ children, ...restProps }) {
+    return <Frame {...restProps}>{children}</Frame>;
+  };
+
 Accordion.Item = function AccordionItem({ children, ...restProps }) {
     const [toggleShow, setToggleShow] = useState(false);
     return (
