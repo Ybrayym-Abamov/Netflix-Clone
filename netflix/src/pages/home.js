@@ -13,12 +13,12 @@ export default function Home() {
                     <Feature.Title>Unlimited movies, TV shows, and more.</Feature.Title>
                     <Feature.SubTitle>Watch anywhere. Cancel anytime.</Feature.SubTitle>
                     <OptForm>
-                        <OptForm.Input placeholder="Email Adress" />
-                        <OptForm.Button>GET STARTED</OptForm.Button>
-                        <OptForm.Break />
                         <OptForm.Text>
                             Ready to watch? Enter your email to create or restart your membership.
                         </OptForm.Text>
+                        <OptForm.Break />
+                        <OptForm.Input placeholder="Email Adress" />
+                        <OptForm.Button>GET STARTED</OptForm.Button>
                     </OptForm>
                 </Feature>
             </HeaderContainer>
