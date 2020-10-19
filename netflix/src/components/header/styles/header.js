@@ -26,8 +26,8 @@ export const Container = styled.div`
 `;
 
 export const Logo = styled.img`
-    height: 32px;
-    width: 108px;
+    height: 50px;
+    width: 135px;
     margin-right: 40px;
 
     @media (min-width: 1449px) {
