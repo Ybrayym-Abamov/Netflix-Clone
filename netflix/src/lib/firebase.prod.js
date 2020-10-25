@@ -1,7 +1,6 @@
 import Firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
-// import { seedDatabase } from '../seed'; DO NOT TOUCH THIS
 
 const config = {
     apiKey: "AIzaSyBEF8G2yzpZ1LlYDD4I9Z2x6b4lGkst29c",
@@ -15,6 +14,5 @@ const config = {
 
 const firebase = Firebase.initializeApp(config);
 
-// seedDatabase(firebase);   DO NOT TOUCH THIS
 
 export { firebase };
